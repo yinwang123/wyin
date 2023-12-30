@@ -1,7 +1,42 @@
+//姝ゅ浠撴帴鍙ｅ垪琛ㄤ负鍏紬鍙枫€愬澶氬奖闊炽€戜綔鑰呭ぇ鑱槑涓虹矇涓濇彁渚涗究鍒╂暣鐞嗚€屾垚锛屽鏈夊啋鐘悇浣嶆帴鍙ｆ墍灞炲ぇ绁烇紝璇疯仈绯诲垹闄ゃ€�
+//杞浇璇锋敞鏄庡嚭澶�
 {
-"storeHouse": [
-{"sourceName":"💚多多优选仓🍭软件接口🍭","sourceUrl":"https://duo.codered.cloud/ck/a.txt"},
-{"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://duo.codered.cloud/ck/b.txt"},
-{"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://duo.codered.cloud/ck/c.txt"},
-{"sourceName":"💜多多预备仓🍭不做韭菜🍭","sourceUrl":"https://duo.codered.cloud/ck/d.txt"}
-]}
+    "urls": [
+          {
+            "url":"http://yydf.540734621.xyz/yydf/yydf/bd/yydf.json",
+            "name": "馃弰锔忎笟浣欑嚎璺�"
+        },
+          {
+            "url":"http://rihou.cc:88/鑽峰煄鑼剁",
+            "name": "馃弰锔忚嵎鍩庤尪绉€"
+        }, 
+          {
+            "url":"https://jihulab.com/ymz1231/xymz/-/raw/main/ymz",
+            "name": "馃弰锔忓鐚瓙"
+        }, 
+          {
+            "url":"https://ghproxy.net/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "馃弰锔忛珮澶╂祦浜�"
+        }, 
+          {
+            "url":"https://jihulab.com/zhulr7765/tvbox/-/raw/main/tv.txt",
+            "name": "馃弰锔忓渾鍛ㄧ巼绾胯矾"
+        },
+          {
+            "url":"https://jihulab.com/yueer/yueera/-/raw/main/11.17/yueer.json",
+            "name": "馃弰锔忔湀鍎跨嚎璺�"
+        },
+          {
+            "url":"https://wds.ecsxs.com/230989.json",
+            "name": "馃弰锔忔槬鐩堢嚎璺�"
+        },		
+          {
+            "url":"https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json",
+            "name": "馃弰锔忎簩鍝堢嚎璺�"
+        },
+          {
+            "url":"https://codeberg.org/AK47/drpy-js/raw/branch/main/js.json",
+            "name": "馃弰锔忕尗鐖嚎璺�"
+        }		
+      ]  
+}
