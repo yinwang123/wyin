@@ -946,27 +946,3 @@ http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 
 #EXTINF:-1 tvg-id="影视频道" tvg-name="影视频道" tvg-logo="https://cdn.laikr.com//shujuku/202308100728000.png" group-title="影视频道",林正英1
 http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1351505899
-#EXTINF:-1 tvg-id="影视频道" tvg-name="影视频道" tvg-logo="https://cdn.laikr.com//shujuku/202308100728000.png" group-title="影视频道",林正英2
-http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
-#EXTINF:-1 tvg-id="影视频道" tvg-name="影视频道" tvg-logo="https://cdn.laikr.com//shujuku/202308100728000.png" group-title="影视频道",NewTV超级电视
-http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
-#EXTINF:-1 tvg-id="影视频道" tvg-name="影视频道" tvg-logo="https://cdn.laikr.com//shujuku/202308100728000.png" group-title="影视频道",NewTV超级电视剧
-http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
-#EXTINF:-1 tvg-id="影视频道" tvg-name="影视频道" tvg-logo="https://cdn.laikr.com//shujuku/202308100728000.png" group-title="影视频道",NewTV超级电影
-http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
-#EXTINF:-1 ,NewTV超级体育
-http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 ,NewTV超级综艺
-http://39.135.138.58:18890/PLTV/88888888/224/3221225620/index.m3u8
-#EXTINF:-1 ,NewTV潮妈辣婆
-http://39.135.138.58:18890/PLTV/88888888/224/3221225708/index.m3u8
-#EXTINF:-1 ,NewTV东北热剧
-http://39.135.138.58:18890/PLTV/88888888/224/3221226202/index.m3u8
-#EXTINF:-1 ,NewTV古装剧场
-http://39.135.138.58:18890/PLTV/88888888/224/3221225678/index.m3u8
-#EXTINF:-1 ,NewTV欢乐剧场
-http://39.135.138.58:18890/PLTV/88888888/224/3221226210/index.m3u8
-#EXTINF:-1 ,NewTV家庭剧场
-http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
-#EXTINF:-1 ,NewTV健康有约
-http://39.135.138.60:18890/PLTV/88888910/224/3221225666/index.m3u8
